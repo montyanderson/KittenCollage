@@ -32,6 +32,10 @@ body {
 	border-bottom-right-radius: 1em;
 	width: 5em;
 	height: 5em;
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	border: 0;
 }
 
 .img {
